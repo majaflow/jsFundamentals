@@ -8,8 +8,4 @@ array.forEach(function(element,index,array){
     console.log(element,index,array)
 })
 
-let pies = ['apple','cherry','berry'];
-
-pies.forEach(function(pie, index){
-    console.log(pie, index, pies)
-})
+l
